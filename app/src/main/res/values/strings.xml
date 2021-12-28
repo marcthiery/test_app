@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title">Titre: %s , Age: %d , Size: %f, pi: %f</string>
+    <string name="validate">Validate</string>
+</resources>
